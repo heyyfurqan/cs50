@@ -11,4 +11,5 @@ Week 0's [problem set](https://cs50.harvard.edu/x/2022/psets/0/) just consisted 
 ## Files
 The file named `ChugDoge.sb3` (hehe cool name) is the scratch project file for the solution. To open this, you will need to go to [scratch's website](https://scratch.mit.edu/) and Create An Account to upload this project file and use it.
 
-![Workin']<img src="https://media.giphy.com/media/Q40zmeFedhkbhISnwj/giphy.gif" width="100" height="100" />
+### There, have a doge
+![](https://i.imgur.com/C4iPxwN.jpeg)
